@@ -1,0 +1,19 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk1.8.0_261\jre\..\bin\javadoc.exe" @options @argfile"
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\allclasses-frame.html = 1602254437682
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\allclasses-noframe.html = 1602254437692
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\argfile = 1602254433697
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\constant-values.html = 1602254437232
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\deprecated-list.html = 1602254437642
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\help-doc.html = 1602254437789
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\index-all.html = 1602254437587
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\index.html = 1602254437707
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\options = 1602254433697
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\overview-frame.html = 1602254436957
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\overview-summary.html = 1602254437735
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\overview-tree.html = 1602254437542
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\package-list = 1602254436922
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\script.js = 1602254437852
+C:\Users\Ivan Esteban Castill\Documents\GitHub\ws_Road_To_Sun\target\site\apidocs\stylesheet.css = 1602254437834
