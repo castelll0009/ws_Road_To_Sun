@@ -33,7 +33,7 @@ public class Road_To_Sun {
     MongoClientURI("mongodb://userLab3:passworduserLab3@93.188.167.110:27017/?authSource=lab3");
     MongoDatabase db;
    
-
+//comentario prueba    
      public String consultarCientes(){
    //  return "{\"clave\":\"Hola mundo\"}";  //construccion Json
     mongoClient = new MongoClient(uri);
